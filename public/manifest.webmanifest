@@ -1,0 +1,14 @@
+{
+  "name": "تک سازان | تزریق پلاستیک و قالب‌سازی شهریار",
+  "short_name": "تک سازان",
+  "lang": "fa",
+  "dir": "rtl",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#0b1a3a",
+  "theme_color": "#0b1a3a",
+  "icons": [
+    { "src": "/favicon.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/logo.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}

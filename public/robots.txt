@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tak-sazan.netlify.app/sitemap.xml
